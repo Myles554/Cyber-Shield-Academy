@@ -1,0 +1,53 @@
+/* Normal text colors*/
+h1{
+    color : darkblue
+}
+
+h2 {
+    color : teal
+}
+
+p{
+    color : gray
+}
+
+footer{
+    color : navy
+}
+
+/*Background colors*/
+
+body{
+    background-color: aliceblue;
+}
+
+footer {
+    background-color: beige;
+}
+
+h1{
+    background-color: blanchedalmond;
+}
+
+section{
+    background-color: aquamarine;
+}
+
+/*New fonts*/
+
+title {
+    font-family: 'Courier New';
+}
+
+h2{
+    font-size: large;
+}
+
+p{
+    font-size: large;
+}
+
+footer{
+    font-weight: bold;
+}
+
