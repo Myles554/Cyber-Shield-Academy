@@ -51,3 +51,18 @@ footer{
     font-weight: bold;
 }
 
+/*Design Borders */
+section {
+    padding : 50px;
+    margin : 50px;
+    background-color: aquamarine;
+    border : 5px solid black;
+    border-radius: 20px;
+}
+
+section {
+    width : 1000px;
+    height : 200px;
+    max-width: 1200px;
+
+}
