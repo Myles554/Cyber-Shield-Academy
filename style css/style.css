@@ -85,7 +85,7 @@ section {
     margin:10px;
     background-color: gold;
     padding:20px;
-    
+    width: 20%;
     display: inline-block;
     text-align: center;
 }
