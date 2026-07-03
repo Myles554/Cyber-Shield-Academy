@@ -89,3 +89,41 @@ section {
     display: inline-block;
     text-align: center;
 }
+
+/*Positioning*/
+.box{
+    position: static;
+}
+
+.box{
+    position: relative;
+    left:20px;
+    top:10px;
+}
+
+/*.box{
+position: absolute;
+left:20px;
+top:15px;
+}*/
+
+/*.box{
+    position: fixed;
+    bottom: 20px;
+    right:20px;
+}*/
+
+#academy-title{
+    position:sticky;
+    top:0;
+}
+
+.Text-Box {
+    background-color: red;
+    color:white;
+    padding:20px;
+    width:150px;
+    position:sticky;
+    top:30px;
+    right:20px;
+}
