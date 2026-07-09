@@ -127,3 +127,45 @@ top:15px;
     top:30px;
     right:20px;
 }
+
+/*Flex Box */
+.dashboard{
+    display: flex;
+    gap: 20px;
+    justify-content: space-evenly;
+    flex-direction: column;
+    
+}
+
+.card{
+    background-color: goldenrod;
+    border:2px solid black;
+    padding:30px;
+    border-radius:10px;
+    width: 20%;
+}
+
+/*align-items*/
+.dashboard{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+/*Flex wrap*/
+.cards{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    height: 300px;
+    align-content: space-evenly;
+
+}
+
+.board{
+    display: flex;
+    border: 2px Solid black;
+    background-color: greenyellow;
+    padding: 10px;
+    border-radius: 10px;
+}
